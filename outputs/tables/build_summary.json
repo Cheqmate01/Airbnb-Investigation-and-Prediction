@@ -1,0 +1,11 @@
+{
+  "snapshot_date": "2021-03-01",
+  "fx_snapshot_date": "2026-11-11",
+  "listings_rows": 279712,
+  "analysis_rows": 279599,
+  "price_analysable_rows": 276846,
+  "price_nonpositive_rows": 113,
+  "price_outlier_high_rows": 2753,
+  "listings_with_reviews": 193556,
+  "review_rows_aggregated": 5373143
+}

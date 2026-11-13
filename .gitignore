@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Large supplied data and derived binaries
+Datasets/
+data/interim/
+data/processed/
+
+# OS
+.DS_Store
+Thumbs.db

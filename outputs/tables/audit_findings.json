@@ -1,0 +1,37 @@
+{
+  "listings_rows": 279712,
+  "listings_columns": 33,
+  "listings_unique_ids": 279712,
+  "listings_duplicate_ids": 0,
+  "review_validation": {
+    "rows": 5373143,
+    "unique_listings": 193556,
+    "unique_review_ids": 5372983,
+    "unique_reviewers": 4450005,
+    "min_date": "2008-11-16",
+    "max_date": "2021-03-01",
+    "null_listing_id": 0,
+    "null_review_id": 0,
+    "null_date": 0,
+    "null_reviewer_id": 0,
+    "duplicated_review_id_values": 160,
+    "extra_rows_from_repeated_ids": 160,
+    "duplicated_listing_review_keys": 0,
+    "exact_duplicate_rows": 0
+  },
+  "coverage": {
+    "reviews_rows": 5373143,
+    "unique_review_listing_ids": 193556,
+    "listings_total": 279712,
+    "listings_with_at_least_one_review": 193556,
+    "review_listing_ids_not_in_listings": 0,
+    "listings_without_reviews": 86156,
+    "coverage_rate_pct": 69.1983182702208
+  },
+  "duplicate_review_ids": {
+    "repeated_ids": 160,
+    "extra_rows": 160,
+    "repeated_ids_with_identical_rows": 0,
+    "repeated_ids_with_conflicting_rows": 160
+  }
+}

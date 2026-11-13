@@ -1,0 +1,6 @@
+issue,rows
+price == 0,113
+price < 0,0
+price missing,0
+price > per-city 99th percentile (USD),2753
+price < per-city 1st percentile (USD),2454

@@ -1,0 +1,14 @@
+field,missing_count,missing_pct,non_missing_dtype
+district,242700,86.7678183274225,string
+host_response_time,128782,46.04092781146322,string
+host_response_rate,128782,46.04092781146322,float64
+host_acceptance_rate,113087,40.42979922205697,float64
+review_scores_value,91785,32.81410879762041,float64
+review_scores_location,91775,32.810533691797275,float64
+review_scores_checkin,91771,32.80910364946802,float64
+review_scores_accuracy,91713,32.78836803569386,float64
+review_scores_communication,91687,32.77907276055371,float64
+review_scores_cleanliness,91665,32.771207527742824,float64
+review_scores_rating,91405,32.67825477634138,float64
+bedrooms,29435,10.523323990390116,float64
+host_since,165,0.058989246081684016,datetime64[ns]

@@ -1,0 +1,8 @@
+hypothesis,test,tests_run,significant_after_correction,median_effect_size,notes
+H1 price differs by room type (within city),Kruskal-Wallis + Dunn,10,10,0.18774537523753737,
+H2a capacity associated with price (within city),Spearman rho,10,10,,median |rho| = 0.520
+H2b bedrooms associated with price (within city),Spearman rho,10,10,,median |rho| = 0.470
+H3 rating differs by room type (within city),Kruskal-Wallis,10,10,0.004595529069295024,
+H3b rating differs by property family,Kruskal-Wallis,10,10,0.00706193143818204,
+H4 review activity differs by room type,Kruskal-Wallis,10,10,0.047410121818000736,
+H5 host response rate differs across cities,Kruskal-Wallis,1,1,0.012997759857688808,

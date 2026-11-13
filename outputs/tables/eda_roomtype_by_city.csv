@@ -1,0 +1,41 @@
+city,room_type,n,median_price_local,median_price_usd,median_rating
+Paris,Entire place,54925,81.0,90.1287,95.0
+Paris,Hotel room,1252,156.0,173.5812,94.0
+Paris,Private room,7420,52.0,57.8604,96.0
+Paris,Shared room,423,34.0,37.8318,93.0
+New York,Entire place,19128,140.0,140.0,97.0
+New York,Hotel room,258,159.0,159.0,91.0
+New York,Private room,16555,60.0,60.0,96.0
+New York,Shared room,678,45.0,45.0,95.0
+Sydney,Entire place,20087,175.0,120.0360621378375,97.0
+Sydney,Hotel room,233,149.0,102.20213290593021,93.0
+Sydney,Private room,12380,68.0,46.642584144988284,97.0
+Sydney,Shared room,593,39.0,26.75089384786093,93.0
+Rome,Entire place,17051,75.0,83.4525,96.0
+Rome,Hotel room,1251,60.0,66.762,94.0
+Rome,Private room,8865,48.0,53.4096,95.0
+Rome,Shared room,200,20.0,22.254,93.0
+Rio de Janeiro,Entire place,19051,346.0,62.26959095540783,98.0
+Rio de Janeiro,Hotel room,91,188.0,33.8343442185453,96.0
+Rio de Janeiro,Private room,6593,160.0,28.79518656897472,100.0
+Rio de Janeiro,Shared room,606,100.0,17.9969916056092,100.0
+Istanbul,Entire place,12267,349.0,6.948190811544882,96.0
+Istanbul,Hotel room,787,319.0,6.350925125738732,91.0
+Istanbul,Private room,10537,161.0,3.2053258471596733,98.0
+Istanbul,Shared room,680,100.0,1.9908856193538345,100.0
+Mexico City,Entire place,10412,950.0,50.91271198277648,97.0
+Mexico City,Hotel room,236,1290.0,69.13410363977016,97.0
+Mexico City,Private room,8835,400.0,21.436931361169044,98.0
+Mexico City,Shared room,374,299.0,16.02410619247386,97.0
+Bangkok,Entire place,10513,1171.0,34.7579614266279,96.0
+Bangkok,Hotel room,1015,1259.0,37.37000293435057,95.0
+Bangkok,Private room,6921,1000.0,29.682289860484968,96.0
+Bangkok,Shared room,717,450.0,13.357030437218237,97.0
+Cape Town,Entire place,13977,1254.0,75.70660908158669,98.0
+Cape Town,Hotel room,297,1300.0,78.483725523176,97.0
+Cape Town,Private room,4494,620.5,37.460885913177464,98.0
+Cape Town,Shared room,127,282.0,17.024931228873562,92.0
+Hong Kong,Entire place,2560,680.0,86.67277600861418,94.0
+Hong Kong,Hotel room,176,449.5,57.29325414098834,90.0
+Hong Kong,Private room,3855,300.0,38.237989415565075,92.0
+Hong Kong,Shared room,426,180.5,23.00652363169832,95.0
