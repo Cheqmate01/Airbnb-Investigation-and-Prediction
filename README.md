@@ -358,10 +358,3 @@ make test
 - **FX rates:** European Central Bank reference rates, 2026-11-11 snapshot.
 - **Tools:** Python 3.9, pandas, Polars, NumPy, SciPy, scikit-learn,
   Matplotlib, Seaborn, Jupyter, pytest. No Microsoft Excel was used at any stage.
-
-## 13. Professional development checklist
-
-- [ ] Push the repository to GitHub.
-- [ ] Publish a LinkedIn post tagging AnalystLab Africa with #AnalystLabAfrica.
-- [ ] Publish an X post tagging @analystlabafric with #AnalystLabAfrica.
-- [ ] Record a 5–10 minute presentation covering method, results, limitations and contribution.
